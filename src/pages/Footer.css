@@ -1,0 +1,17 @@
+.bi {
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
+footer {
+  height: 4rem;
+  margin-right: 3rem;
+  margin-left: 3rem;
+  margin-bottom: 0px;
+  /* position: absolute; */
+bottom: 0px;
+right: 0px;
+left: 0px;
+}
+
+
